@@ -21,7 +21,7 @@ PS: 目前已知问题，多线程计算哈希值，磁盘占用过高，大文�
     .sh有时间再重写，.bat/.ps1文件解决不了 是windows的问题
 
 
-hash.json
+### hash.json
 [
     {
         "File": "HashCalculate/.git/HEAD",
